@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let nama = prompt("Masukkan nama Anda:");
+        let gender = prompt("Jenis kelamin Anda:","Pria / Wanita");
+
+        if (gender == "Pria" || gender == "pria") {
+            alert("Selamat datang, Mr." + nama);            
+        }
+        else {
+            alert("Selamat datang, Mrs." + nama);
+        }
+
+        let minuman = prompt("Minuman yang Anda ingin pesan:");
+
+        if (minuman == "Jus" || minuman == "jus") {
+            alert("Mohon maaf, Jus tidak tersedia");
+        }
+        else {
+            alert("Siap " + nama +", satu " + minuman + " segera datang!");
+        }
+    </script>
+</body>
+</html>
