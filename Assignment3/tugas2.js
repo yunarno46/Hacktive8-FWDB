@@ -1,9 +1,8 @@
 var my_bucket_list = 
     [
 	"Membangun masjid",
-    "Berangkat haji sekeluarga",
-    "Menjadi full stack developer",
-    
+    	"Berangkat haji sekeluarga",
+    	"Menjadi full stack developer",    
     ];
   
 my_bucket_list.push("Menghadiri wisuda anak");
