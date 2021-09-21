@@ -2,7 +2,7 @@ var recipe =
 [
     "Panaskan air hingga mendidih.",
     "Masukkan mie ke dalam air yang mendidih.",
-    "Rebus hingga 3/4 matang lalu tiriskan.",
+    "Rebus hingga 3/4 matang lalu angkat dan tiriskan.",
     "Campurkan semua bumbu ke dalam piring.",
 ]
 
